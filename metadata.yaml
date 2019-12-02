@@ -1,11 +1,16 @@
 _repo: The-Convent-School-Early-Experiences-of-a-Young-Flagellant_60825
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60825-h/images/cover.jpg
 creator:
   author:
     agent_name: Dugdale, William
     gutenberg_agent_id: '51155'
     url: http://www.gutenberg.org/2009/agents/51155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60825#The-Convent-School-Early-Experiences-of-a-Young-Flagellant
 gutenberg_issued: '2019-12-01'
 gutenberg_type: Text
 identifiers:
